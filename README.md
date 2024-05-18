@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas andMy goal is to become a full-stack developer. from France</h2>
+<h2 align="left">Hi 👋! My name is Lucas and My goal is to become a full-stack developer. from France</h2>
 
 ###
 
