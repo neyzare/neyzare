@@ -5,7 +5,7 @@
 
 <!-- ===== TEXTE ANIMÉ ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+NestJS;De+la+maquette+Figma+%C3%A0+la+prod;Ouvert+aux+opportunit%C3%A9s+%C3%A0+Paris+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Next.js+%E2%80%A2+TypeScript+%E2%80%A2+NestJS;De+la+maquette+Figma+%C3%A0+la+prod;Ouvert+aux+opportunit%C3%A9s+partout+dans+le+monde" alt="Typing SVG" />
 </p>
 
 <!-- ===== CONTACT ===== -->
@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧑‍💻 À propos
+## À propos
 
 ```ts
 const lucas = {
@@ -27,22 +27,22 @@ const lucas = {
   stack: ["Next.js", "TypeScript", "NestJS", "Prisma", "PostgreSQL"],
   deploie: "Hetzner + Coolify + Traefik",
   apprend: "NestJS en profondeur",
-  recherche: "Un poste full-stack / back-end à Paris",
+  recherche: "Un poste full-stack / back-end, partout dans le monde",
 };
 ```
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,figma,nodejs,nestjs,prisma,postgres,mysql,docker,linux,git,github,vscode&perline=8&theme=dark" alt="Stack" />
 </p>
 
-## 🚀 Projets
+## Projets
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💹 FinanTrack</h3>
+      <h3>FinanTrack</h3>
       <p>Suivi de portefeuille boursier. Projet de diplôme CDA, en production.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -52,7 +52,7 @@ const lucas = {
       <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Vitrineo</h3>
+      <h3>Vitrineo</h3>
       <p>SaaS de sites vitrines personnalisés par métier, avec suivi des prospects.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -63,7 +63,7 @@ const lucas = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Uptime Monitor</h3>
+      <h3>Uptime Monitor</h3>
       <p>Surveillance de la disponibilité de sites web.</p>
       <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
       <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
@@ -72,7 +72,7 @@ const lucas = {
       <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏋️ CoachUp</h3>
+      <h3>CoachUp</h3>
       <p>Coaching en musculation assisté par IA.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -82,7 +82,7 @@ const lucas = {
   </tr>
 </table>
 
-## 📊 Activité
+## Activité
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neyzare&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9&border_color=30363d" height="170" alt="Stats" />
