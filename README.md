@@ -39,12 +39,48 @@ const lucas = {
 
 ## 🚀 Projets
 
-<p align="center">
-  <a href="https://github.com/neyzare/finantrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neyzare&repo=finantrack&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9&border_color=30363d" alt="FinanTrack" /></a>
-  <a href="https://github.com/neyzare/vitrineo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neyzare&repo=vitrineo&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9&border_color=30363d" alt="Vitrineo" /></a>
-  <a href="https://github.com/neyzare/uptime-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neyzare&repo=uptime-monitor&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9&border_color=30363d" alt="Uptime Monitor" /></a>
-  <a href="https://github.com/neyzare/coachup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neyzare&repo=coachup&bg_color=0d1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9&border_color=30363d" alt="CoachUp" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💹 FinanTrack</h3>
+      <p>Suivi de portefeuille boursier. Projet de diplôme CDA, en production.</p>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <br/><br/>
+      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Vitrineo</h3>
+      <p>SaaS de sites vitrines personnalisés par métier, avec suivi des prospects.</p>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
+      <br/><br/>
+      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Uptime Monitor</h3>
+      <p>Surveillance de la disponibilité de sites web.</p>
+      <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
+      <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <br/><br/>
+      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ CoachUp</h3>
+      <p>Coaching en musculation assisté par IA.</p>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <br/><br/>
+      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Activité
 
