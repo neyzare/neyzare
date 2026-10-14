@@ -1,69 +1,56 @@
-<h2 align="left">Hi 👋! My name is Lucas and My goal is to become a full-stack developer. from France</h2>
+<h1 align="center">Salut, moi c'est Lucas 👋</h1>
 
-###
+<p align="center">
+  <b>Développeur full-stack junior</b> · Next.js · TypeScript · NestJS · PostgreSQL<br/>
+  Titre CDA (RNCP niveau 6) · Basé en Centre-Val de Loire, en recherche de poste sur Paris
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neyzare&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neyzare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:TON-EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=6c09b952177uvpdmlyps8985y4ydk3eqsoriyw6sy8z80e5y&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+### 🧑‍💻 À propos
 
-###
+- 🎓 2 ans d'alternance comme **chargé de projet digital** chez Puzzle Centre (Tours) : maintenance de sites, projets clients en équipe, échanges avec des interlocuteurs non techniques
+- 🚀 Je mène mes projets de bout en bout : maquette sur Figma, développement, puis déploiement sur VPS (Hetzner + Coolify + Traefik)
+- 🌱 En ce moment : j'approfondis le back-end avec **NestJS**
+- 🔍 Ouvert à un poste de **développeur full-stack / back-end**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### 🛠️ Stack
 
-###
+<p>
+  <b>Front</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,figma" alt="Front-end" />
+</p>
+<p>
+  <b>Back</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mysql" alt="Back-end" />
+</p>
+<p>
+  <b>DevOps & outils</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" alt="DevOps" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 📂 Projets
 
-###
+| Projet | Description | Stack |
+|---|---|---|
+| **[FinanTrack](https://github.com/neyzare/REPO)** | Suivi de portefeuille boursier — projet de diplôme CDA, en production | Next.js, TypeScript, Prisma, PostgreSQL |
+| **[Vitrineo](https://github.com/neyzare/REPO)** | SaaS de sites vitrines personnalisés par métier pour indépendants, avec suivi des prospects | Next.js, TypeScript, Prisma |
+| **[Uptime Monitor](https://github.com/neyzare/REPO)** | Surveillance de la disponibilité de sites web | NestJS, Prisma, PostgreSQL |
+| **[CoachUp](https://github.com/neyzare/REPO)** | Application de coaching en musculation assisté par IA | Next.js, TypeScript |
+| **[audit-vitrine](https://github.com/neyzare/REPO)** | Outil CLI pour auditer des sites vitrines | TypeScript, Node.js |
 
-<br clear="both">
+### 📊 Stats
 
-<img src="https://raw.githubusercontent.com/neyzare/neyzare/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neyzare&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neyzare&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Langages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neyzare/neyzare/output/snake.svg" alt="Snake animation" />
+</p>
