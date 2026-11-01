@@ -51,15 +51,16 @@ const lucas = {
       <br/><br/>
       <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Vitrineo</h3>
-      <p>SaaS de sites vitrines personnalisés par métier, avec suivi des prospects.</p>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-      <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
-      <br/><br/>
-      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
-    </td>
+  <td width="50%" valign="top">
+  <h3>Vitrineo</h3>
+  <p>SaaS de sites vitrines personnalisés par métier, avec suivi des prospects.</p>
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
+  <br/><br/>
+  <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
