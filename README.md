@@ -73,13 +73,13 @@ const lucas = {
       <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>CoachUp</h3>
-      <p>Coaching en musculation assisté par IA.</p>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-      <br/><br/>
-      <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
-    </td>
+  <h3>CoachUp</h3>
+  <p>Coaching en musculation assisté par IA.</p>
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2" />
+  <br/><br/>
+  <a href="LIEN-DEMO-OU-REPO"><img src="https://img.shields.io/badge/Voir_le_projet-7F5AF0?style=for-the-badge" /></a>
+</td>
   </tr>
 </table>
 
